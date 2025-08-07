@@ -21,3 +21,17 @@
         - git add +nome_do_arquivo
         - git add . (adiciona todos os arquivos de uma única vez)
     
+    - 6º Passo - Git Commit - Criar o Versionamento local 
+        - git commit -m "Sua mensagem"
+
+    - 7º Passo - Sincronizar o Repositório local com o GitHub
+        - git push -u origin main
+
+    - 8º Passo - Clonar um Repositório da Nuvem
+        - git clone+Link_do_rpositório_github
+
+    - 9º Passp - Atualizar um Repositório local
+        - git pull origin main
+
+## Criando um Repositório Colaborativo 
+    
